@@ -21,7 +21,7 @@ A responsive web application that allows users to switch between Light and Dark 
 3. Use the toggle switch to change between themes.
 
 ## 🌐 Live Demo
-(After enabling GitHub Pages, paste your live link here)
+https://pallapudharani19-spec.github.io/Syntecxhub_DarkLightMode/)
 
 ---
 
